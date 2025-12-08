@@ -1,0 +1,82 @@
+[
+    {
+        "id": "DS-001",
+        "name": "Heavenly Hues",
+        "category": "Peace",
+        "price": 2500,
+        "desc": "Turquoise and white intricate weave representing the sky and purity.",
+        "image": "images/products/Heavenly Hues.jpg"
+    },
+    {
+        "id": "DS-002",
+        "name": "Love's Embrace",
+        "category": "Love",
+        "price": 3000,
+        "desc": "A heart-shaped red dreamcatcher designed to attract warmth and affection.",
+        "image": "images/products/Love's Embrace.jpg"
+    },
+    {
+        "id": "DS-003",
+        "name": "Whispers of Purity",
+        "category": "Spirituality",
+        "price": 2800,
+        "desc": "A delicate purple and white gradient design for spiritual connection.",
+        "image": "images/products/Whispers of Purity.jpg"
+    },
+    {
+        "id": "DS-004",
+        "name": "Legendary Heroes",
+        "category": "Kids",
+        "price": 4500,
+        "desc": "A custom superhero-themed collection for brave little dreamers.",
+        "image": "images/products/Legendary Heroes Unite.jpg"
+    },
+    {
+        "id": "DS-005",
+        "name": "Enchanting Forest",
+        "category": "Nature",
+        "price": 3200,
+        "desc": "Deep green tones with black accents, evoking the mystery of the woods.",
+        "image": "images/products/Enchanting Forest Vibes.jpg"
+    },
+    {
+        "id": "DS-006",
+        "name": "Serene Twilight",
+        "category": "Calm",
+        "price": 2900,
+        "desc": "Rich violet and white dual-tone feathers for calming the mind.",
+        "image": "images/products/Serene Twilight.jpg"
+    },
+    {
+        "id": "DS-007",
+        "name": "Sun & Flame",
+        "category": "Energy",
+        "price": 3100,
+        "desc": "Fiery yellow and red radiance to bring energy and motivation.",
+        "image": "images/products/Radiance of the Sun & Flame.jpg"
+    },
+    {
+        "id": "DS-008",
+        "name": "Rainbow Harmony",
+        "category": "Joy",
+        "price": 3500,
+        "desc": "A vibrant multi-colored wall hanging to bring joy to any room.",
+        "image": "images/products/Radiant Rainbow Harmony.jpg"
+    },
+    {
+        "id": "DS-009",
+        "name": "Radiant Glow",
+        "category": "Classic",
+        "price": 2700,
+        "desc": "White elegance with golden accents, perfect for modern decor.",
+        "image": "images/products/Radiant Glow.jpg"
+    },
+    {
+        "id": "DS-010",
+        "name": "Earth Tones",
+        "category": "Grounding",
+        "price": 2600,
+        "desc": "Brown and beige rustic style for grounding and stability.",
+        "image": "images/products/Whispering Earth Tones.jpg"
+    }
+]
