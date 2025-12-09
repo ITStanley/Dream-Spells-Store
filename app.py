@@ -5,12 +5,14 @@ import os
 import time
 import re
 from datetime import datetime
+from dotenv import load_dotenv
 import google.generativeai as genai
+load_dotenv()
 
 # ==========================================
 # 🔑 CONFIGURATION
 # ==========================================
-GEMINI_API_KEY = "AIzaSyChJfMB0N6Z_oWVADzjs8DgvrgWxZ6cKa8"  # <--- PASTE KEY HERE
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Configure Gemini
 try:
