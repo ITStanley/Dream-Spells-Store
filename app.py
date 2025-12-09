@@ -5,14 +5,12 @@ import os
 import time
 import re
 from datetime import datetime
-from dotenv import load_dotenv
 import google.generativeai as genai
-load_dotenv()
 
 # ==========================================
 # 🔑 CONFIGURATION
 # ==========================================
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_API_KEY = st.secrets.get("GEMINI_API_KEY", "")
 
 # Configure Gemini
 try:
@@ -24,7 +22,6 @@ except Exception as e:
 # ==========================================
 # 🎨 CUSTOM CSS
 # ==========================================
-
 
 def load_custom_styles():
     st.markdown("""
